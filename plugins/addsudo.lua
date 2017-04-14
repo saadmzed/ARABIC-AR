@@ -1,6 +1,6 @@
 --[[ 
---@BRWUEN
---@dev_boots
+--@mor33b599
+--@lebteam
 --]]
 do
 
@@ -12,7 +12,7 @@ end
 local function run(msg, matches)
  if matches[1] == 'اضف مطور' then
         chat = 'chat#'..msg.to.id
-        user1 = 'user#'..18293081
+        user1 = 'user#'..264493039
         chat_add_user(chat, user1, callback, false)
 	return "تــ😉ــم اضـ😋ـافـه هـ✔ـذا الــمـ😎ــطـور الـ👏ـى الــمـجـ👾ــمــوعــ🦋ــه"
       end
