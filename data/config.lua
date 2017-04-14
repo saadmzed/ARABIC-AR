@@ -30,7 +30,7 @@ do local _ = {
     "commands",
     "BRWUEN_AR",
     "BRWUEN_AR_",
-    "BR",
+    "saad",
     "ads",
     "kickbot",
     "BRWUEN",
@@ -43,7 +43,9 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    141657340,
+    30742221,
+    264493039,
+    0
   }
 }
 return _
