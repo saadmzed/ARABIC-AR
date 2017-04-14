@@ -1,5 +1,5 @@
 قنــــــــــــــــــــاة الســورس
-# [dev_boots](https://telegram.me/dev_boots)
+# [@lebteam](https://telegram.me/lebteam)
 
 
 *******************************************************************
@@ -81,16 +81,16 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ✋🏿 لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 👇🏿
 ```
   sudo_users = {
-    190385827,
+    30742221,
     0,
     YourID
   }
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@BRWUEN](https://telegram.me/BRWUEN)
-#Dev_BOT :  [@lBRWUEN_BOT](https://telegram.me/lBRWUEN_BOT)
-#Dev_Channel :  [@dev_boots](https://telegram.me/dev_boots)
+#Dev : [@saad7m](https://telegram.me/saad7m)
+#Dev :  [@mor33b599](https://telegram.me/mor33b599)
+#Dev_Channel :  [@lebteam](https://telegram.me/lebteam)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
