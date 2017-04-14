@@ -1,6 +1,6 @@
 --[[ 
---@BRWUEN
---@dev_boots
+--@mor33b599
+--@lebteam
 --]]
 local function addword(msg, name)
     local hash = 'chat:'..msg.to.id..':badword'
