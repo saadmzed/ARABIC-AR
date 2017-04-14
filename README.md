@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/0BRWUEN0/BRWUEEN.git
+git clone https://github.com/saadmzed/ARABIC-AR.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd BRWUEEN
+cd ARABIC-AR
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/0BRWUEN0/BRWUEEN.git && cd BRWUEEN && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/saadmzed/ARABIC-AR.git && cd ARABIC-AR && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
