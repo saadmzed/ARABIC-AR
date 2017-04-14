@@ -1,6 +1,6 @@
 --[[ 
---@BRWUEN
---@dev_boots
+--@mor33b599
+--@lebteam
 --]] 
 local function isAntiBotEnabled (chatId) 
   local hash = 'bot:lock:'..chatId 
